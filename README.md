@@ -1,5 +1,5 @@
 # reactjs-app
-Small ReactJS application with user login and dashboard updates with websockets.
+ReactJS application with user login and dashboard updates with websockets.
 
 Application was done as a job test so I can't reveal company update API. 
 Instead I simulated set of metrics and websocket updates.
