@@ -16,7 +16,7 @@ Also it's a nice way to use ReactJS with material design.
 
 ## Development 
 
-Application is bundled already with webpack so it can be run after download with some local server.
+Application is bundled already with webpack so it can be run immediately with some local server.
 
 If you want to edit project, next should be done
 
