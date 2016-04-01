@@ -14,6 +14,25 @@ I hope it will help someone, because I searched for examples of React applicatio
 with login, auth and other common problems.
 Also it's a nice way to use ReactJS with material design.
 
+## Development 
+
+Application is bundled already with webpack so it can be run after download with some local server.
+
+If you want to edit project, next should be done
+
+1. you need to have nodejs and npm installed
+2. navigate to project folder via console and run:
+  ```npm install```
+   and after a few min project dependencies should be installed
+3. you can now build application with prepared npm script that uses webpack
+	development build (unminified)
+	```npm run dev```
+	or production build (minified)
+	```npm run build ```
+	any of above will pack project source into build/bundle.js
+
+	```npm run watch``` 
+	can be used for auto build when you save and of .jsx files
 
 ## Login screen
 ![alt tag](https://raw.githubusercontent.com/sgoran/reactjs-app/master/src/resources/images/1.png)
