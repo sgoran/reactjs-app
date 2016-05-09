@@ -1,5 +1,11 @@
-# reactjs-app
+# ReactJS application example with realtime updates  
+
 ReactJS application with user login and dashboard realtime updates with websockets.
+
+Demo [here](http://sgoran.github.io/reactjs-app)
+user: admin
+pass: admin
+
 
 I can't reveal API data.
 Instead I simulated set of metrics and websocket updates.
@@ -10,8 +16,8 @@ and a few smaller modules for cookie and date managment.
 For the UI, [react-mdl](https://github.com/tleunen/react-mdl) is used. A ReactJS
 port of [Google Material Design Lite](http://www.getmdl.io/)
 
-I myself googled for examples of React applications with login, 
-auth and other common problems. I hope it will help someone.
+I googled for examples of React applications with login, 
+auth and other common problems. So app has those begginer problems solved.
 
 Also it's a nice way to use ReactJS with material design.
 
