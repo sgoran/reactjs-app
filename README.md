@@ -6,7 +6,6 @@ Demo [here](http://sgoran.github.io/reactjs-app)
 user: admin
 pass: admin
 
-
 I can't reveal API data.
 Instead I simulated set of metrics and websocket updates.
 
