@@ -34,10 +34,3 @@ If you want to edit project, next should be done
 
 	```npm run watch``` 
 	can be used for auto build when you save and of .jsx files
-
-## Login screen
-![alt tag](https://raw.githubusercontent.com/sgoran/reactjs-app/master/src/resources/images/1.png)
-
-
-## Dashboard with live updates
-![alt tag](https://raw.githubusercontent.com/sgoran/reactjs-app/master/src/resources/images/2.png)
