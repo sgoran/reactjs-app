@@ -1,4 +1,4 @@
-# ReactJS application example with realtime updates  
+# ReactJS application with realtime updates  
 
 ReactJS application with user login and dashboard realtime updates with websockets.
 
