@@ -3,8 +3,7 @@
 ReactJS application with user login and dashboard realtime updates with websockets.
 
 Demo [here](http://sgoran.github.io/reactjs-app)
-user: admin
-pass: admin
+Login: admin/admin
 
 I can't reveal API data.
 Instead I simulated set of metrics and websocket updates.
